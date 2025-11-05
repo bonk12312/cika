@@ -93,7 +93,7 @@ function Terminal() {
   return (
     <div className="w-full min-h-screen bg-black flex flex-col items-center justify-center p-4 relative">
       <a
-        href="https://x.com"
+        href="https://x.com/CikaPattern"
         target="_blank"
         rel="noopener noreferrer"
         className="fixed top-6 right-6 text-green-500 hover:text-green-300 transition-all duration-300 hover:shadow-[0_0_20px_rgba(34,197,94,0.6)] p-2 rounded-lg border border-green-500 hover:border-green-300 group"
